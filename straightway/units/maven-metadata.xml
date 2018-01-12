@@ -3,10 +3,12 @@
   <groupId>straightway</groupId>
   <artifactId>units</artifactId>
   <versioning>
+    <release>0.2</release>
     <versions>
       <version>0.1-SNAPSHOT</version>
       <version>0.2-SNAPSHOT</version>
+      <version>0.2</version>
     </versions>
-    <lastUpdated>20180109125314</lastUpdated>
+    <lastUpdated>20180112124653</lastUpdated>
   </versioning>
 </metadata>
