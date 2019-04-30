@@ -1,2 +1,3 @@
 # repo
-Maven repository for straightway binaries
+
+Maven repository for straightway binaries.
